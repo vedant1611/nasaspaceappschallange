@@ -1,0 +1,29 @@
+
+[
+    {
+        "id": 1,
+        "name": "Sirius",
+        "ra": 6.752,
+        "dec": -16.716,
+        "magnitude": -1.46,
+        "constellation": "Canis Major"
+    },
+    {
+        "id": 2,
+        "name": "Betelgeuse",
+        "ra": 5.919,
+        "dec": 7.406,
+        "magnitude": 0.50,
+        "constellation": "Orion"
+    },
+    {
+        "id": 3,
+        "name": "Rigel",
+        "ra": 5.242,
+        "dec": -8.201,
+        "magnitude": 0.18,
+        "constellation": "Orion"
+    }
+]
+
+
